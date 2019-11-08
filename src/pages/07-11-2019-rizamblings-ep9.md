@@ -4,7 +4,7 @@ date: "2019-11-07T17:12:33.962Z"
 title: "🎙️ Rizamblings - Episode 9 (Saving Icelandic Hip Hop)"
 ---
 
-<iframe src="https://pods.slantedpress.com/embed/3/6e1864d35817e6bfa3d2619ce4342ded" width="100%" height="160px" style="border:none"></iframe>
+<iframe src="https://pods.slantedpress.com/embed/3/9f8e2b48f7827447ed52bce9c814cfc4" width="100%" height="160px" style="border:none"></iframe>  
 
 I had the remarkable opportunity to sit and ramble with designer/writer/genius <a href="http://colly.com">Simon Collison</a> for this episode.  
 
