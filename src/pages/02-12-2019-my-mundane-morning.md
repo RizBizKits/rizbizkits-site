@@ -7,7 +7,7 @@ title: "My Mundane Monday"
 <img src="/blog/tree.gif" alt="notebook in lamplight" style="margin: 0px 0 40px; display: block; max-width: 100%;" />
 
 
-**(Nottingham-famous, Tom Jespon, has laid out a challenge to create content, daily, for the month of December. This is day _two_. #Dec19ContentChallenge )**    
+**(Nottingham-famous, Tom Jepson, has laid out a challenge to create content, daily, for the month of December. This is day _two_. #Dec19ContentChallenge )**    
 <hr/>   
 
 Let’s be real. I’m that person in any public transport that just needs to be using their laptop. However, as a person, _clumsy_ is an adjective I definitely won’t find missing in the list of words summarizing **rizwana**. _(My mother has twice as many stories on this matter than I could ever begin to begin, and yes she’ll both scowl and smile, in that motherly way, at the chance to tell you all of these..)_   

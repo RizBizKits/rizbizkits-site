@@ -9,7 +9,7 @@ title: "That it's the start of something new"
 
 
 
-**(Nottingham-famous, Tom Jespon, has laid out a challenge to create content, daily, for the month of December. This is day _one_. #Dec19ContentChallenge )**    
+**(Nottingham-famous, Tom Jepson, has laid out a challenge to create content, daily, for the month of December. This is day _one_. #Dec19ContentChallenge )**    
 <hr/>  
 
 I’ve began and failed, already. It’s 5 minutes past 1AM on Sunday night _(or is it Monday morning?)_, which means it’s Dec 2nd, if we’re being super technical. To send out into the world one piece of content that you’ve created sounds pretty doable, no? I mean, there’s worse challenges faced by people all around the world than one such as this one, where the repercussions for failing are non-existent.  
