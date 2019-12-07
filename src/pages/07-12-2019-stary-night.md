@@ -21,12 +21,9 @@ There’s _Vincent_ playing in my ears for the 27th time as I run through the ca
 
 
 My poem this morning was touched by the state of a heart that is dreamy. It promised to revisit another day when I wasn’t bewitched sketching trees or swirling clouds. Thus, regrettably, you, too, will have to wait until tomorrow for something less opaque.  
+ 
 
-
-
-
-
-
+Goodnight.
 
 
 <hr>  
