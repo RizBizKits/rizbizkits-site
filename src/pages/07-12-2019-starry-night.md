@@ -1,7 +1,7 @@
 ---
-path: "/stary-night"
+path: "/starry-night"
 date: "2019-12-06T17:12:33.962Z"
-title: "Stary, Stary Night"
+title: "Starry, Starry Night"
 ---
 
 <img src="/blog/starynight.png" alt="van gogh's stary night painting" style="margin: 0px 0 40px; display: block; max-width: 100%;" />
@@ -21,7 +21,7 @@ There’s _Vincent_ playing in my ears for the 27th time as I run through the ca
 
 
 My poem this morning was touched by the state of a heart that is dreamy. It promised to revisit another day when I wasn’t bewitched sketching trees or swirling clouds. Thus, regrettably, you, too, will have to wait until tomorrow for something less opaque.  
- 
+
 
 Goodnight.
 
