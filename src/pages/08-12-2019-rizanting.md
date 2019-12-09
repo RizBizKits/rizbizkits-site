@@ -20,7 +20,7 @@ Recently, I’ve been existing on a week by week basis. Balancing the long list 
 Of course, I don’t at all understand me _(and my 2 brain cells)_, that chose this unhealthy routine and then framed in in such a way that my brain refuses to believe I could ever thrive without it. Because, yes, I have been more creative in this state than when I had ample time and an empty schedule. From poems to design in general, not having the time to pursue either in a day is the exact reason I was more conscious of the subtleties within any given day, to take my inspiration from this!  
 
 
-Thus, to imagine a life without I’m not my most creative self? I, wholeheartedly, _can’t._ Which brings me to an uneasy realisation: **I’ve forever claimed to detest hustle culture and anyone who preaches it, and yet I happen to be a _culprit?!_**  
+Thus, to imagine a life where I’m not my most creative self? I, wholeheartedly, _can’t._ Which brings me to an uneasy realisation: **I’ve forever claimed to detest hustle culture and anyone who preaches it, and yet I happen to be a _culprit?!_**  
 
 
 _I have no ending worked out for this rant so I’ll end it, abruptly._  
