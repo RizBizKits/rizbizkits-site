@@ -194,7 +194,7 @@ export default () => (
                     </div>
                     <div class="whoopee__content">
                         <p>
-                        You’ll find my chasing after stuff that makes the heart sings on a regular basis.
+                        You’ll find me chasing after stuff that makes the heart sings on a regular basis.
                         In doing so, I’ve had some great many wonderful experiences. To name but a few:
                         </p>
 
@@ -261,7 +261,7 @@ export default () => (
                 <a href="mailto:rizwana.akmal@hotmail.com">  Email</a> / 
                 <a href="https://linkedin.com/in/riz">  LinkedIn</a></p>  
 
-                <p class="graduation__title">p.s. days to Graduation: 09/06/2020 minus Today! #Math 🎓</p>
+                <p class="graduation__title">Days to Graduation: 09/06/2020 minus Today! #Math 🎓</p>
     
             </div>
         </div>
