@@ -49,46 +49,7 @@ export default () => (
             </div>
         </div> 
 
-        <div class="news">
-            <div class="news__container">
-                <div class="news__wrapper">
 
-                    <p class="news__title underline">a (short) intermission:</p>
-
-                    <div class="news__content">
-                        <p>i’m currently on the look out for a part-time design or front-end dev role in Nottingham (or remote), starting Mid-Oct to take up alongside my final year in uni. 
-                        <br/>
-                        <span class="news__hashtags slant">#PartTimerRiz #LesDoDis  </span>
-                        <br/>
-                        <br/>
-                        <br/>
-                        Please get in contact if <br/>you've got something suitable.
-                        <br/>
-                        <a href="mailto:rizwana.akmal@hotmail.com" target="_blank" class="news__button--email news__button">Email Riz</a>
-                        <a href="https://twitter.com/messages/compose?recipient_id=800085538954878976" target="_blank" class="news__button--dm news__button">Nah, DM Riz</a>
-                        
-                    
-                        <br/>
-                        <br/>
-                     
-                        </p>  
-                    </div>
-                    
-                 
-
-                    <div class="news__deets">
-                        <span class="news__deets--email">
-
-                        <a href="https://twitter.com/rizbizkits" target="_blank">@rizbizkits  </a>//<a href="mailto:rizwana.akmal@hotmail.com" target="_blank">  rizwana.akmal@hotmail.com</a>
-                    
-
-                        </span>
-
-                         
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <div class="trio-intro">
             <div class="trio__container container">
