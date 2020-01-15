@@ -31,6 +31,11 @@ export default function Template({
 						<meta property="og:image" content={`${rootUrl}${post.frontmatter.featuredImage}`}/>
 						<meta property="og:url" content={`${rootUrl}${post.frontmatter.path}`}/>
 
+						<meta name="twitter:card" content="summary" />
+						<meta name="twitter:site" content="@rizbizkits" />
+						<meta name="twitter:title" content={`${post.frontmatter.title}`}/>
+						<meta name="twitter:image" content={`${rootUrl}${post.frontmatter.featuredImage}`} />
+
 					</Helmet>
 					<div className="blog-post">
 						<h1>{post.frontmatter.title}</h1>
