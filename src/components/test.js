@@ -15,9 +15,8 @@ const ListLink = props => (
     </li>
 )
 
-
-
 export default () => (
+    
 
     <div class="new">
         <header class="header">
@@ -105,6 +104,29 @@ export default () => (
                         All in all, Speaking gives me great joy especially when I can bring together my <a href="https://www.instagram.com/tinkererofwords/">poetry</a> and wit, to form talks that people can laugh or relate to. If that sounds like something your meetup/conference/stage could do with, I'm happy to discuss over pretend coffee and an <a href="mailto:rizwana.akmal@hotmail.com">email</a>.
                         </p>
                     </div>
+                    <div class="werds__quotes">
+
+                        <blockquote class="werds__quotes--outer">
+                            <p class="werds__quotes--text">
+                                Rizwana Khan opened the day with a truly beautiful poem, one that—in hindsight—drew a perfect, unbroken line through each of our talks.
+                            </p>
+                            <footer>
+                                - Ethan Marcotte,
+                                <cite> Web Designer</cite>
+                            </footer>
+                        </blockquote>
+
+                        <blockquote class="werds__quotes--outer">
+                            <p class="werds__quotes--text">
+                                [Riz is] a fantastically talented woman set for great things.
+                            </p>
+                            <footer>
+                                - Daniel Westlake,
+                                <cite> Managing Director</cite>
+                            </footer>
+                        </blockquote>
+
+                    </div>
 
                     <div class="werds__deets">
                         <div class="werds__deets--title">Prev Speaking Deet(s):</div>
@@ -116,6 +138,7 @@ export default () => (
                             </a>
                         </p>
                     </div>
+
                 </div>
             </div>
         </div>
@@ -154,17 +177,41 @@ export default () => (
                         <br/>I can’t, however, claim to be a unicorn IRL. 🦄</p>
                         I’ve strived to benefit from the learnings of actually working in the Industry. Thus, the past (nearly) 15 months of combined experience at two agencies, <strong><a href="https://cursor.co.uk/">Cursor</a></strong> and <strong><a href="https://wearejh.com">JH</a></strong>, have been crucial for my self-development, in every regard.                       
                         <br/>
-                        <p>
+                        {/* <p>
                             <span class="stylize_i">“[Riz is] a fantastically talented woman set for great things.”</span>
                             <br/>
                             -Daniel Westlake, MD Cursor
-                        </p>
-                        <br/>
+                        </p> */}
+                        
                        
                         <p>BTW, as a third-culture adult, I’ve grown up greatly valuing diverse work environments and will always stand for, and behind, spaces where ‘people whom may be seen as outsiders are given centre stage’. That's the crucial bit.
                         </p>
                     
                     </div>
+
+                    {/* <div class="werk__quotes">
+
+                        <blockquote class="werk__quotes--outer">
+                            <p class="werk__quotes--text">
+                                [Riz is] a fantastically talented woman set for great things.
+                            </p>
+                            <footer>
+                                - Daniel Westlake,
+                                <cite> Cursor</cite>
+                            </footer>
+                        </blockquote>
+
+                        <blockquote class="werk__quotes--outer">
+                            <p class="werk__quotes--text">
+                                Riz can rap hamilton and she is just waiting for a chance to be able to go see this in real life so yeah that's what's happening yo
+                            </p>
+                            <footer>
+                                - Hamilton,
+                                <cite> West End</cite>
+                            </footer>
+                        </blockquote>
+
+                    </div> */}
                 </div>
             </div>
         </div>        

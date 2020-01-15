@@ -7,6 +7,8 @@ export default function Template({
 	data
 }) {
 	const { markdownRemark: post } = data;
+	const rootUrl = 'https://www.rizwanakhan.com';
+
 	return (
 
 		<div class="outer-most">
@@ -25,6 +27,11 @@ export default function Template({
 				<div className="blog-post-container">
 					
 					<Helmet title={`Rizbizkits - ${post.frontmatter.title}`} />
+					<Helmet>
+						<meta property="og:image" content={`${rootUrl}${post.frontmatter.featuredImage}`}/>
+						<meta property="og:url" content={`${rootUrl}${post.frontmatter.path}`}/>
+
+					</Helmet>
 					<div className="blog-post">
 						<h1>{post.frontmatter.title}</h1>
 						<div className="blog-post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -46,6 +53,7 @@ export const pageQuery = graphql`
 				date(formatString: "MMMM DD, YYYY")
 				path
 				title
+				featuredImage
 			}
 		}
 	}

@@ -2,6 +2,7 @@
 path: "/qs-and-doubts"
 date: "2019-12-11T17:12:33.962Z"
 title: "All Qs and Doubts"
+featuredImage: "/blog/confusion.png"
 ---
 
 <img src="/blog/confusion.png" alt="state of confusion" style="margin: 0px 0 40px; display: block; max-width: 100%;" />

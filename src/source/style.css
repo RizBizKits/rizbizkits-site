@@ -498,11 +498,71 @@ body {
     font-size: 22px;
     color: var(--clear-bg);
     line-height: 1.5;
-    padding: 0 90px 190px 300px;
+    padding: 0 90px 0 300px;
 }
 
 .werds__content a {
     color: var(--clear-bg);
+}
+
+
+.werds__quotes {
+    padding: 0 90px 0px 300px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin: 60px 0 50px;
+    flex: 1;
+}
+
+.werds__quotes--outer::before {
+    content:'';
+    display: inline-block;
+    width: 18px;
+    height: 100%;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    background-image: url('/assets/quote.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.werds__quotes--outer {
+    padding: 0px 0 25px; 
+    font-size: 18px;
+    margin: 0 30px 0 0;
+    flex: 1;
+    position: relative;
+}
+
+.werds__quotes--text {
+    min-height: 160px;
+    margin-bottom: 0;
+    margin-top: 0;
+    background-color: var(--white-bg);
+    padding: 35px 20px 10px;
+    
+}
+
+.werds__quotes--outer footer{
+    font-size: 14px;
+    position: relative;
+    padding: 5px 0;
+    text-align: right;
+    color: var(--white-bg);
+}
+
+.werds__quotes--outer footer::before {
+    content:'';
+    display: inline-block;
+    width: 100%;
+    height: 3px;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: var(--yellow-bg);
 }
 
 /* .werds__lyric--content p:hover {
@@ -671,6 +731,64 @@ body {
     /* padding: 0 90px 190px 300px;
     padding: 0; */
 
+}
+
+.werk__quotes {
+    padding: 0 90px 0px 300px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin: 60px 0 50px;
+    flex: 1;
+}
+
+.werk__quotes--outer::before {
+    content:'';
+    display: inline-block;
+    width: 18px;
+    height: 100%;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    background-image: url('/assets/quote.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.werk__quotes--outer {
+    padding: 0px 0 25px; 
+    font-size: 18px;
+    margin: 0 30px 0 0;
+    flex: 1;
+    position: relative;
+}
+
+.werk__quotes--text {
+    min-height: 160px;
+    margin-bottom: 0;
+    margin-top: 0;
+    background-color: var(--white-bg);
+    padding: 35px 20px 10px;
+    
+}
+
+.werk__quotes--outer footer{
+    font-size: 14px;
+    position: relative;
+    padding: 5px 0;
+    text-align: right;
+}
+
+.werk__quotes--outer footer::before {
+    content:'';
+    display: inline-block;
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: var(--purple-dk-bg);
 }
 
 
@@ -967,6 +1085,22 @@ body {
     .werds__spread--outer, .werk__spread--outer, .whoopee__spread--outer {
         margin: 50px 0 0;
     }
+
+    .werk__quotes {
+        padding: 0 30px;
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        margin: 80px 0 50px;
+    }
+
+    .werds__quotes {
+        padding: 0 30px;
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        margin: 80px 0 50px;
+    }
 }
 
 @media only screen and (max-width: 500px) {
@@ -1018,5 +1152,9 @@ body {
 
     .werds__deets {
         padding: 30px;
+    }
+
+    .werds__quotes {
+        flex-wrap: wrap;
     }
 }
