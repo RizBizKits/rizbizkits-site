@@ -31,7 +31,7 @@ export default function Template({
 						<meta property="og:image" content={`${rootUrl}${post.frontmatter.featuredImage}`}/>
 						<meta property="og:url" content={`${rootUrl}${post.frontmatter.path}`}/>
 
-						<meta name="twitter:card" content="summary" />
+						<meta name="twitter:card" content="summary_large_image" />
 						<meta name="twitter:site" content="@rizbizkits" />
 						<meta name="twitter:title" content={`${post.frontmatter.title}`}/>
 						<meta name="twitter:image" content={`${rootUrl}${post.frontmatter.featuredImage}`} />
