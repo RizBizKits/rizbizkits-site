@@ -11,13 +11,12 @@ This is meant to be a short, simple blog post with a short, simple announcement.
 
 
 <div class="dark-bg">
-
-**<h2>I’ve expanded my job search.   
-Holla @ the job market, _hire me!_</h2>**  
+<h2 style="margin-bottom:0;">🚨 I’ve expanded my job search.</h2>
+<h2 style="margin-top:0;">Holla @ the job market, <i>hire me!</i></h2> 
 
 Have a gander at my CV:    
 
-<iframe src="/blog/RizwanaKhan_CV_2020.pdf#view=fit" width="100%" height="800px" style="border:none;margin:10px 0px 30px;"></iframe>
+<iframe src="/blog/RizwanaKhan_CV_2020.pdf#view=fit" width="100%" style="border:none;margin:10px auto 30px; height:80vh"></iframe>
 
 </div>
 
