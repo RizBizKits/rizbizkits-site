@@ -1169,9 +1169,3 @@ body {
 }
 
 
-.dark-bg {
-    background-color: var(--black-bg);
-    padding: 40px 0 50px;
-    color: white;
-    margin: 50px 0;
-}

@@ -39,6 +39,7 @@ export default function Template({
 					</Helmet>
 					<div className="blog-post">
 						<h1>{post.frontmatter.title}</h1>
+						<h5 class="blog-post__date">{post.frontmatter.date}</h5>
 						<div className="blog-post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
 						<a className="back-link" href="/blog">👈 Head back?</a>
 
