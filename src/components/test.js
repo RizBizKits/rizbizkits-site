@@ -19,6 +19,9 @@ export default () => (
     
 
     <div class="new">
+
+        <nav class="hire-me">Hey! I'm available for hire starting July.</nav>
+        
         <header class="header">
             <div class="header__container container">
                 <h1 class="header__title">rizbizkits</h1>
