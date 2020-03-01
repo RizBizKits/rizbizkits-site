@@ -78,8 +78,9 @@ dark
 
 <div class="dark-bg twitter-section">  
 
-<h2 style="margin-bottom:0;">✨ A few reaffirming words:</h2> 
+<h2 style="">✨ You shouldn't take my word for it.</h2>  
 
+From time to time, some kind people have said kind, reaffirming things about me:
 
 <blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden"><p lang="en" dir="ltr">Thanks for the link, Rizwana. And really, you set the stage for us *perfectly*. I hope I get a chance to hear you speak again at some point soon. 🙌</p>&mdash; 
 <a href="https://ethanmarcotte.com/">Ethan Marcotte</a> <a href="https://twitter.com/beep/status/1090205325217710080?ref_src=twsrc%5Etfw">↗</a>
