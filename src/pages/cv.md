@@ -10,7 +10,7 @@ featuredImage: "/blog/riz-exclamation.png"
 This is meant to be a short, simple blog post with a short, simple announcement. My usual writing is laden with clumsy magic tricks to let Clarity slip through the trap door in the ground (poets are after all, part-time magicians 🧐), so I’ll be upfront in this one as not to take a lot of your time. Here goes:  
 
 
-<div class="dark-bg">
+<div class="full-width black-bg">
 <h2 style="margin-bottom:0;">🚨 I’ve expanded my job search.</h2>
 <h2 style="margin-top:0;">Holla @ the job market, <i>hire me!</i></h2> 
 
@@ -72,7 +72,7 @@ _I really do rarely sit idle._
  
 
 
-<div class="dark-bg twitter-section">  
+<div class="full-width twitter-section dk-purple-bg">  
 
 <h2 style="">✨ You shouldn't take my word for it.</h2>  
 

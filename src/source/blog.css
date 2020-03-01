@@ -127,8 +127,8 @@ a:visited {
     color: var(--purple-dk-bg);
 }
 
-.blog-post-content > *:not(.dark-bg),
-.blog-post-content > .dark-bg > *{
+.blog-post-content > *:not(.full-width),
+.blog-post-content > .full-width > *{
     /* max-width: 700px;
     margin-left: auto;
     margin-right: auto; */
@@ -244,19 +244,28 @@ a:visited {
 
 }
 
-.dark-bg {
-    background-color: var(--black-bg);
+.full-width {
     padding: 40px 0 50px;
     color: white;
     margin: 50px 0;
 }
+
+.black-bg {
+    background-color: var(--black-bg);
+}
+
+.dk-purple-bg {
+    background-color: var(--purple-dk-bg);
+}
+
+
 
 @media only screen and (max-width: 800px) {
     .blog-posts {
         padding: 50px 30px 100px;
     }
 
-    .dark-bg {
+    .full-width {
         padding: 40px 20px 50px;
     }
 
@@ -264,8 +273,8 @@ a:visited {
         font-size: 40px;
     }
     
-    .blog-post-content > *:not(.dark-bg),
-    .blog-post-content > .dark-bg > *{
+    .blog-post-content > *:not(.full-width),
+    .blog-post-content > .full-width > *{
         padding: 0 calc((100vw - 500px) / 2);
     }
  }
@@ -284,7 +293,7 @@ a:visited {
         margin: 20px 0;
     }
 
-    .dark-bg {
+    .full-width {
         padding: 40px 20px 50px;
     }
 
