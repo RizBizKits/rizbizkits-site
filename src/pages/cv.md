@@ -73,7 +73,7 @@ I will be happy to work in a full **front-end** role or a healthy mix of **digit
 
 
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr">15.10.21 🖤<a href="https://twitter.com/hashtag/SaveTheDate?src=hash&amp;ref_src=twsrc%5Etfw" data-width="300">#SaveTheDate</a> 😂 <a href="https://twitter.com/hashtag/Hamilaria?src=hash&amp;ref_src=twsrc%5Etfw">#Hamilaria</a> 🌟 <a href="https://t.co/tVi0RPzOAd">pic.twitter.com/tVi0RPzOAd</a></p>&mdash; riz (@rizbizkits) <a href="https://twitter.com/rizbizkits/status/1224381574915002369?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote>  
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">15.10.21 🖤<a href="https://twitter.com/hashtag/SaveTheDate?src=hash&amp;ref_src=twsrc%5Etfw" data-width="300">#SaveTheDate LIVE</a> 😂 <a href="https://twitter.com/hashtag/Hamilaria?src=hash&amp;ref_src=twsrc%5Etfw">#Hamilaria</a> 🌟 <a href="https://t.co/tVi0RPzOAd">pic.twitter.com/tVi0RPzOAd</a></p>&mdash; riz (@rizbizkits) <a href="https://twitter.com/rizbizkits/status/1224381574915002369?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote>  
 
 
 
