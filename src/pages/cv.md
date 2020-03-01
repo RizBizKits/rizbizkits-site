@@ -74,24 +74,24 @@ LIVE
 </div>  
 
 
+dark
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr">15.10.21 🖤<a href="https://twitter.com/hashtag/SaveTheDate?src=hash&amp;ref_src=twsrc%5Etfw" data-width="520">#SaveTheDate LIVE</a> 😂 <a href="https://twitter.com/hashtag/Hamilaria?src=hash&amp;ref_src=twsrc%5Etfw">#Hamilaria</a> 🌟 <a href="https://t.co/tVi0RPzOAd">pic.twitter.com/tVi0RPzOAd</a></p>&mdash; riz (@rizbizkits) <a href="https://twitter.com/rizbizkits/status/1224381574915002369?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote>  
-
-
-
-<!-- <div class="dark-bg">
+<div class="dark-bg">  
 
 
 
-
-</div> -->
-
-<blockquote class="twitter-tweet margin-ol"><p lang="en" dir="ltr">Thanks for the link, Rizwana. And really, you set the stage for us *perfectly*. I hope I get a chance to hear you speak again at some point soon. 🙌</p>&mdash; 
-<a href="https://ethanmarcotte.com/">Ethan Marcotte</a> <a href="https://twitter.com/beep/status/1090205325217710080?ref_src=twsrc%5Etfw">↗</a>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks for the link, Rizwana. And really, you set the stage for us *perfectly*. I hope I get a chance to hear you speak again at some point soon. 🙌</p>&mdash; 
+<a href="https://ethanmarcotte.com/" data-conversation="none">Ethan Marcotte</a> <a href="https://twitter.com/beep/status/1090205325217710080?ref_src=twsrc%5Etfw">↗</a>
 </blockquote>  
 
 
-<blockquote class="twitter-tweet margin-ol"><p lang="en" dir="ltr">Kind, and amazing. You’re a legend at 20</p>&mdash; Simon Collison<a href="https://twitter.com/colly/status/1091111388641136640?ref_src=twsrc%5Etfw">↗</a></blockquote>  
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kind, and amazing. You’re a legend at 20</p>&mdash; Simon Collison<a href="https://twitter.com/colly/status/1091111388641136640?ref_src=twsrc%5Etfw" data-conversation="none">↗</a></blockquote>  
+
+
+
+</div>
+
 
 
  **<h2>📬 Get in touch</h2>**  
