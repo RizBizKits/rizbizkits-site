@@ -50,6 +50,8 @@ Due to being on a **Tier 4** student visa status, I am looking for a company tha
 
 I will be happy to work in a full **front-end** role or a healthy mix of **digital design** *and* **front-end**. I have experience in the following languages and technologies (plus, am more than willing to pick up new skills needed to strive in a suitable role!):  
 
+LIVE
+
 <div class="skill-list"> 
     <ul class="tech-list"> 
         <li>👩‍💻 HTML</li>  
@@ -73,7 +75,7 @@ I will be happy to work in a full **front-end** role or a healthy mix of **digit
 
 
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr">15.10.21 🖤<a href="https://twitter.com/hashtag/SaveTheDate?src=hash&amp;ref_src=twsrc%5Etfw" data-width="300">#SaveTheDate LIVE</a> 😂 <a href="https://twitter.com/hashtag/Hamilaria?src=hash&amp;ref_src=twsrc%5Etfw">#Hamilaria</a> 🌟 <a href="https://t.co/tVi0RPzOAd">pic.twitter.com/tVi0RPzOAd</a></p>&mdash; riz (@rizbizkits) <a href="https://twitter.com/rizbizkits/status/1224381574915002369?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote>  
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">15.10.21 🖤<a href="https://twitter.com/hashtag/SaveTheDate?src=hash&amp;ref_src=twsrc%5Etfw" data-width="520">#SaveTheDate LIVE</a> 😂 <a href="https://twitter.com/hashtag/Hamilaria?src=hash&amp;ref_src=twsrc%5Etfw">#Hamilaria</a> 🌟 <a href="https://t.co/tVi0RPzOAd">pic.twitter.com/tVi0RPzOAd</a></p>&mdash; riz (@rizbizkits) <a href="https://twitter.com/rizbizkits/status/1224381574915002369?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote>  
 
 
 
