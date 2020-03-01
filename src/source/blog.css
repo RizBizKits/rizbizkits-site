@@ -305,6 +305,6 @@ a:visited {
 }
 
 .twitter-tweet {
-    padding: 0;
+    padding: 0 !important;
     margin: 0 auto;
 }
