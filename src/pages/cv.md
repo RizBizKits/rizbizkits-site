@@ -70,10 +70,11 @@ I will be happy to work in a full **front-end** role or a healthy mix of **digit
         <li>👩‍🔧 Trello</li> 
     </ul>
 </div>  
- 
+
 
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">15.10.21 🖤<a href="https://twitter.com/hashtag/SaveTheDate?src=hash&amp;ref_src=twsrc%5Etfw">#SaveTheDate</a> 😂 <a href="https://twitter.com/hashtag/Hamilaria?src=hash&amp;ref_src=twsrc%5Etfw">#Hamilaria</a> 🌟 <a href="https://t.co/tVi0RPzOAd">pic.twitter.com/tVi0RPzOAd</a></p>&mdash; riz (@rizbizkits) <a href="https://twitter.com/rizbizkits/status/1224381574915002369?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote>  
+
 
 
 <!-- <div class="dark-bg">
@@ -87,7 +88,9 @@ I will be happy to work in a full **front-end** role or a healthy mix of **digit
 <a href="https://ethanmarcotte.com/">Ethan Marcotte</a> <a href="https://twitter.com/beep/status/1090205325217710080?ref_src=twsrc%5Etfw">↗</a>
 </blockquote>  
 
-<blockquote class="twitter-tweet margin-ol"><p lang="en" dir="ltr">Kind, and amazing. You’re a legend at 20</p>&mdash; Simon Collison<a href="https://twitter.com/colly/status/1091111388641136640?ref_src=twsrc%5Etfw">↗</a></blockquote>
+
+<blockquote class="twitter-tweet margin-ol"><p lang="en" dir="ltr">Kind, and amazing. You’re a legend at 20</p>&mdash; Simon Collison<a href="https://twitter.com/colly/status/1091111388641136640?ref_src=twsrc%5Etfw">↗</a></blockquote>  
+
 
  **<h2>📬 Get in touch</h2>**  
 
