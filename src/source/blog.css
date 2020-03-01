@@ -304,6 +304,13 @@ a:visited {
     height: 240px;
 }
 
+.twitter-outer {
+    background-color: var(--black-bg);
+    padding: 40px 0 50px;
+    color: #fff;
+    margin: 50px 0;
+}
+
 .twitter-section {
     display: flex;
     flex-direction: row;
@@ -313,7 +320,7 @@ a:visited {
 
 .twitter-tweet {
     padding: 0 !important;
-    margin: 0 auto;
+    margin: 0 10px;
     justify-content: center;
     flex-direction: column;
     align-items: center;

@@ -76,7 +76,7 @@ LIVE
 
 dark
 
-<div class="dark-bg">  
+<div class="twitter-outer">  
 
 <h2 style="margin-bottom:0;">✨ A few reaffirming words:</h2> 
 
