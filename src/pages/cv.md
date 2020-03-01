@@ -78,17 +78,18 @@ dark
 
 <div class="dark-bg">  
 
-
+<h2 style="margin-bottom:0;">✨ A few reaffirming words:</h2> 
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Thanks for the link, Rizwana. And really, you set the stage for us *perfectly*. I hope I get a chance to hear you speak again at some point soon. 🙌</p>&mdash; 
 <a href="https://ethanmarcotte.com/">Ethan Marcotte</a> <a href="https://twitter.com/beep/status/1090205325217710080?ref_src=twsrc%5Etfw">↗</a>
 </blockquote>  
 
-
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">What a FANTASTIC write-up of the <a href="https://twitter.com/dddeastmidlands?ref_src=twsrc%5Etfw">@dddeastmidlands</a> speakers workshop! <a href="https://twitter.com/rizbizkits?ref_src=twsrc%5Etfw">@rizbizkits</a> is not only a lovely person, but a talented writer and great fun! :) <a href="https://t.co/p7lbE56dFi">https://t.co/p7lbE56dFi</a><br><br>Also yes: Mr Hubble is wonderful :D</p>&mdash; Matt Brunt 🇪🇺 (@Brunty) <a href="https://twitter.com/Brunty/status/1148188449444380672?ref_src=twsrc%5Etfw">July 8, 2019</a></blockquote>
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Kind, and amazing. You’re a legend at 20</p>&mdash; Simon Collison<a href="https://twitter.com/colly/status/1091111388641136640?ref_src=twsrc%5Etfw">↗</a></blockquote>  
 
 
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">The whole room is enraptured by <a href="https://twitter.com/rizbizkits?ref_src=twsrc%5Etfw">@rizbizkits</a>&#39;s amazing life story littered with honesty, creativity and humour <a href="https://twitter.com/WiT_Notts?ref_src=twsrc%5Etfw">@WiT_Notts</a> <a href="https://twitter.com/hashtag/WiTNotts?src=hash&amp;ref_src=twsrc%5Etfw">#WiTNotts</a> <a href="https://t.co/7ihzwdLwzh">pic.twitter.com/7ihzwdLwzh</a></p>&mdash; Helen Joy (@LittleHelli) <a href="https://twitter.com/LittleHelli/status/1146845747129782272?ref_src=twsrc%5Etfw">July 4, 2019</a></blockquote>
 
 </div>
 
