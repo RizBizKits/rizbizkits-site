@@ -7,6 +7,7 @@ module.exports = {
 	},
 	// previous setup
 	plugins: [
+		'gatsby-plugin-twitter',
 		'gatsby-plugin-catch-links',
 		'gatsby-plugin-react-helmet',
 		'gatsby-plugin-feed',
