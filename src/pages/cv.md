@@ -76,11 +76,10 @@ LIVE
 
 dark
 
-<div class="twitter-outer">  
+<div class="dark-bg twitter-section">  
 
 <h2 style="margin-bottom:0;">✨ A few reaffirming words:</h2> 
 
-<div class="twitter-section">
 
 <blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden"><p lang="en" dir="ltr">Thanks for the link, Rizwana. And really, you set the stage for us *perfectly*. I hope I get a chance to hear you speak again at some point soon. 🙌</p>&mdash; 
 <a href="https://ethanmarcotte.com/">Ethan Marcotte</a> <a href="https://twitter.com/beep/status/1090205325217710080?ref_src=twsrc%5Etfw">↗</a>
@@ -93,7 +92,6 @@ dark
 
 <blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden"><p lang="en" dir="ltr">The whole room is enraptured by <a href="https://twitter.com/rizbizkits?ref_src=twsrc%5Etfw">@rizbizkits</a>&#39;s amazing life story littered with honesty, creativity and humour <a href="https://twitter.com/WiT_Notts?ref_src=twsrc%5Etfw">@WiT_Notts</a> <a href="https://twitter.com/hashtag/WiTNotts?src=hash&amp;ref_src=twsrc%5Etfw">#WiTNotts</a> <a href="https://t.co/7ihzwdLwzh">pic.twitter.com/7ihzwdLwzh</a></p>&mdash; Helen Joy (@LittleHelli) <a href="https://twitter.com/LittleHelli/status/1146845747129782272?ref_src=twsrc%5Etfw">July 4, 2019</a></blockquote>
 
-</div>
 
 
 
