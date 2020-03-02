@@ -5,7 +5,9 @@ title: "Unapologetically, (Hire) Me"
 featuredImage: "/blog/riz-exclamation.png"
 ---
 
-<img src="/blog/riz-exclamation.png" alt="riz looking at a laptop" style="border-radius:2px;margin: 0px 0 40px; display: block; max-width: 100%;" />
+<img src="/blog/riz-exclamation.png" alt="riz holding a mic" style="border-radius:2px;margin: 0px; display: block; max-width: 100%;" />  
+
+<p class="header-caption">#Riz4Keeps</p>
 
 This is meant to be a short, simple blog post with a short, simple announcement. My usual writing is laden with clumsy magic tricks to let Clarity slip through the trap door in the ground (poets are after all, part-time magicians 🧐), so I’ll be upfront in this one as not to take a lot of your time. Here goes:  
 
@@ -16,13 +18,13 @@ This is meant to be a short, simple blog post with a short, simple announcement.
 
 Have a gander at my CV:    
 
-<iframe src="/blog/RizwanaKhan_CV_2020.pdf#view=fit" width="100%" style="border:none;margin:10px auto 30px; height:80vh"></iframe>
+<iframe src="/blog/RizwanaKhan_CV_2020.pdf#view=fit" width="100%" style="border:none;margin:10px auto 30px; height:80vh"></iframe>  
 
 </div>  
 
 **<h2>🔍 What I'm looking for:</h2>**  
 
-I am looking for a **friendly** and **encouraging** environment that fosters personal-development and is open to new technologies. A place that provides opportunities to strengten and give back to the community.  
+I am looking for a **friendly** and **encouraging** environment that fosters personal-development and is open to new technologies. A place that provides opportunities to strengthen and give back to the community.  
 
 My ideal workplace is one that values **diversity** and believes in providing spaces where _people whom may be seen as outsiders are given centre stage_.  
 

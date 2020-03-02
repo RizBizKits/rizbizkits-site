@@ -20,7 +20,9 @@ export default () => (
 
     <div class="new">
 
-        {/* <nav class="hire-me">Hey! I'm available for hire starting July.</nav> */}
+        <nav class="hire-me">
+            🚨<a href="">Hey! I'm available for hire starting July. Find out More.</a>
+        </nav>
 
         <header class="header">
             <div class="header__container container">
