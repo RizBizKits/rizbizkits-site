@@ -21,7 +21,7 @@ export default () => (
     <div class="new">
 
         <nav class="hire-me">
-            🚨<a href="">Hey! I'm available for hire starting July. Find out More.</a>
+            🚨<a href="https://rizwanakhan.com/hire-riz">Hey! I'm available for hire starting July. Find out More.</a>
         </nav>
 
         <header class="header">

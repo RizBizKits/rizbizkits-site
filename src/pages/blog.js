@@ -36,7 +36,7 @@ export default function Index({
 			</div>
 			
 			{posts
-			.filter(post => post.node.frontmatter.title.length > 0 && ["Unapologetically, (Hire) Me"].indexOf(post.node.frontmatter.title) === -1 )
+			.filter(post => post.node.frontmatter.title.length > 0)			
 			.map(({ node: post }) => {
 				return (
 				<div className="blog-post-preview" key={post.id}>
