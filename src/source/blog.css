@@ -362,10 +362,10 @@ a:visited {
     margin: 50px 0;
 }
 
-.twitter-section {
+.twitter-section .flex-grid{
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
+    flex-direction: row;
     justify-content: center;
 }
 
