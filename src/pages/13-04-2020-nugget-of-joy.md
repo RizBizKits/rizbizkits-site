@@ -21,6 +21,8 @@ Thus, in an effort to run towards something that was within my control (and to t
 
 <div class="full-width twitter-section black-bg">  
 
+<h2 style="">✨ A few lil' nuggets:</h2>  
+
 <div class="flex-grid">
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">👋 On a mission to pay attention to moments of joy that pass by me without me noticing, starting today (on a whim), I&#39;ll share a thing that&#39;s made me happy in this life, for as long as I can.<br><br>Today: My mom&#39;s cooking. Oh, she makes it look easy! 👑<a href="https://twitter.com/hashtag/NuggetOfJoy?src=hash&amp;ref_src=twsrc%5Etfw">#NuggetOfJoy</a></p>&mdash; riz (@rizbizkits) <a href="https://twitter.com/rizbizkits/status/1241854604603727872?ref_src=twsrc%5Etfw">March 22, 2020</a></blockquote>
