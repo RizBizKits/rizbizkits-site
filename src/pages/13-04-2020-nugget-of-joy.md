@@ -24,6 +24,13 @@ Thus, in an effort to run towards something that was within my control (and to t
 <div class="flex-grid">
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">👋 On a mission to pay attention to moments of joy that pass by me without me noticing, starting today (on a whim), I&#39;ll share a thing that&#39;s made me happy in this life, for as long as I can.<br><br>Today: My mom&#39;s cooking. Oh, she makes it look easy! 👑<a href="https://twitter.com/hashtag/NuggetOfJoy?src=hash&amp;ref_src=twsrc%5Etfw">#NuggetOfJoy</a></p>&mdash; riz (@rizbizkits) <a href="https://twitter.com/rizbizkits/status/1241854604603727872?ref_src=twsrc%5Etfw">March 22, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today - Spent most of today sadly staring at a screen but while (quickly) picking up some groceries, I waited in the car with the cooling switched off &amp; the sun beating down; a forgotten joy was recollected. Home peeked through! <br><br>(At home, the sun was everywhere.)<a href="https://twitter.com/hashtag/NuggetOfJoy?src=hash&amp;ref_src=twsrc%5Etfw">#NuggetOfJoy</a></p>&mdash; riz (@rizbizkits) <a href="https://twitter.com/rizbizkits/status/1248026172719607808?ref_src=twsrc%5Etfw">April 8, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today - Woke up later than usual, caught up on some TV, even spent time in the garden! 🤯 Chilling out after the longest time ever is pretty much joy growing twofolds 💛<br><br>(Life ain&#39;t half bad.) <a href="https://twitter.com/hashtag/NuggetOfJoy?src=hash&amp;ref_src=twsrc%5Etfw">#NuggetOfJoy</a></p>&mdash; riz (@rizbizkits) <a href="https://twitter.com/rizbizkits/status/1249082761593438209?ref_src=twsrc%5Etfw">April 11, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today - The daunting blueprint for the ~future~ was laid out &amp; reconsidered. Joy that is mostly gratitude for days that whisper little changes.<br><br>(p.s. Reader, I look to you. How has joy ushered into your life, today? p̶r̶o̶c̶r̶a̶s̶t̶i̶n̶a̶t̶i̶o̶n̶ curiosity 🙈)<a href="https://twitter.com/hashtag/NuggetOfJoy?src=hash&amp;ref_src=twsrc%5Etfw">#NuggetOfJoy</a></p>&mdash; riz (@rizbizkits) <a href="https://twitter.com/rizbizkits/status/1248334565887918080?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote>
+
 </div>
 
 </div>
