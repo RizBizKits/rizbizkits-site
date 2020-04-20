@@ -23,11 +23,11 @@ export default () => (
 
         <div class="joy-i">
             <div class="joy-content">
-                <p class="joy-date"><span class="font-yellow">17.</span> <span class="font-purple">04.</span> <span class="font-clear">2020</span></p>
+                <p class="joy-date"><span class="font-yellow">20.</span> <span class="font-purple">04.</span> <span class="font-clear">2020</span></p>
                 <p>
-                <strong>Today</strong> - Not feeling like an imposter as a Dev. Though there's a long way to go, past-me would be shook(!) at the amount of stuff I now seem to have pieced together (some) understanding of 💪
+                <strong>Today</strong> - Further in our shift from 🏠 building to a bakery, 'cuz we'd eaten all the 🍊 cake, mom baked a coffee cake!
                 </p>
-                <p>Celebrating this rare joy! 😅</p>
+                <p>thus, thou the top was a little burnt, the joy of having the company of loved ones to share the joy of the cake with was so great, it was palpable.</p>
             </div>
 
             <div class="joy-image">
