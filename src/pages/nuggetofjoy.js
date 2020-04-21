@@ -25,7 +25,7 @@ export default () => (
             <div class="joy-content">
                 <p class="joy-date"><span class="font-yellow">20.</span> <span class="font-purple">04.</span> <span class="font-clear">2020</span></p>
                 <p>
-                <strong>Today</strong> - Further in our shift from 🏠 building to a bakery, 'cuz we'd eaten all the 🍊 cake, mom baked a coffee cake!
+                <strong>Today</strong> - Further in our shift from 🏠 to a bakery, 'cuz we'd eaten all the 🍊 cake, mom baked a coffee cake!
                 </p>
                 <p>thus, thou the top was a little burnt, the joy of having the company of loved ones to share the joy of the cake with was so great, it was palpable.</p>
             </div>
