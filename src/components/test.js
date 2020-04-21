@@ -41,11 +41,11 @@ export default () => (
 
                         <h2 class="intro__heading">sup? i'm riz. <br/> designin' + web devin'</h2>
                         <ul class="intro__list-outer">
-                            <li class="intro__list--item">👉 final year comp sci student at NTU</li>
-                            <li class="intro__list--item">👉 junior designer (PT) at JH</li>
-                            <li class="intro__list--item">👉 previously on placement at Cursor</li>
-                            <li class="intro__list--item">👉 co-founder of Project Function</li>
-                            <li class="intro__list--item">👉 public speaker + poet + podcaster</li>
+                            <li class="intro__list--item">👉 final year comp sci student @ NTU</li>
+                            <li class="intro__list--item">👉 junior designer (PT) @ JH</li>
+                            <li class="intro__list--item">👉 co-founder of <a href="http://projectfunction.io/">ProjectFunction</a></li>
+                            <li class="intro__list--item">👉 sharing a #NuggetOfJoy, <a href="https://rizwanakhan.com/nuggetofjoy/">daily</a></li>
+                            <li class="intro__list--item">👉 public speaker + <a href="https://www.instagram.com/tinkererofwords/">poet</a> + <a href="http://nott.tech/rizpod">podcaster</a></li>
                         </ul>
                     </div>
                 

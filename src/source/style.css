@@ -166,9 +166,10 @@ body {
 
 .intro__list-outer {
     list-style: none;
-    padding: 0;
+    padding: 0 0 0 30px;
     font-size: 22px;
     margin: 0 auto;
+    text-align: left;
 }
 
 .intro__list--item {
