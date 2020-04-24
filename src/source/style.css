@@ -961,6 +961,9 @@ body {
     text-align: center;
     /* font-weight: bold;
     font-size: 20px; */
+    line-height: 1.7;
+    font-weight: 500;
+    letter-spacing: 1.25px;
 }
 
 
@@ -968,19 +971,23 @@ body {
 
 .footer__social {
     color: var(--yellow-bg);
-    font-weight: bold;
 }
 
 .footer__social a {
-    color: var(--yellow-bg);
+    color: var(--white-bg);
     text-decoration: none;
     transition: 300ms;
-
 }
 
 .footer__social a:hover {
     color: var(--clear-bg);
   
+}
+
+.footer__copyright {
+    color: var(--yellow-bg);
+    letter-spacing: 1.25px;
+    font-size: 12px;
 }
 
 /* //////// */

@@ -307,13 +307,15 @@ export default () => (
 
         <div class="footer">
             <div class="footer__container container">
-                <p class="footer__social">Find me on other places on the internet <br/> <br/>
                 
-                <a href="https://twitter.com/rizbizkits">Twitter</a> / 
-                <a href="mailto:rizwana.akmal@hotmail.com">  Email</a> / 
+                <p class="footer__social">Find me on other places on the internet ✨<br/>
+                
+                <a href="https://twitter.com/rizbizkits">Twitter</a> |
+                <a href="mailto:rizwana.akmal@hotmail.com">  Email</a> | 
                 <a href="https://linkedin.com/in/riz">  LinkedIn</a></p>  
 
-                <p class="graduation__title">Days to Graduation: 09/06/2020 minus Today! #Math 🎓</p>
+                <p class="footer__copyright">Copyright © 2020 Rizwana Khan</p>
+
     
             </div>
         </div>
