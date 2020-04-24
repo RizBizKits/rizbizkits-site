@@ -20,11 +20,11 @@ export default () => (
 
         <div class="joy-i">
             <div class="joy-content">
-                <p class="joy-date"><span class="font-yellow">21.</span> <span class="font-purple">04.</span> <span class="font-clear">2020</span></p>
+                <p class="joy-date"><span class="font-yellow">23.</span> <span class="font-purple">04.</span> <span class="font-clear">2020</span></p>
                 <p>
-                <strong>Today</strong> - Fulfilling quiz master duties 👀 Laughing over the incorrect answers & flexing on the right ones; joy as a collective 💛
+                <strong>Today</strong> - A focused day. Constant productivity is a sham, yes, but the joy of the 🧠 not getting completely sidetracked was very refreshing.
                 </p>
-                {/* <p>thus, thou the top was a little burnt, the joy of having the company of loved ones to share the joy of the cake with was so great, it was palpable.</p> */}
+                <p>Now, let's see how long things cooperate...😅</p>
             </div>
 
             <div class="joy-image">
