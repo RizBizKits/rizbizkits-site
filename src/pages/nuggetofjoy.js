@@ -20,11 +20,11 @@ export default () => (
 
         <div class="joy-i">
             <div class="joy-content">
-                <p class="joy-date"><span class="font-yellow">23.</span> <span class="font-purple">04.</span> <span class="font-clear">2020</span></p>
+                <p class="joy-date"><span class="font-yellow">24.</span> <span class="font-purple">04.</span> <span class="font-clear">2020</span></p>
                 <p>
-                <strong>Today</strong> - A focused day. Constant productivity is a sham, yes, but the joy of the 🧠 not getting completely sidetracked was very refreshing.
+                <strong>Today</strong> - Having Ramadan to remind oneself to find resolve in, is a blessed joy. Life in 🇸🇦 used to change at this point, every year. This year, I seem to be united with my friends in different places in our own lockdowns.
                 </p>
-                <p>Now, let's see how long things cooperate...😅</p>
+                <p>Ramadan Mubarak to all who observe 💖</p>
             </div>
 
             <div class="joy-image">
