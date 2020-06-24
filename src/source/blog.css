@@ -219,6 +219,12 @@ a:visited {
     margin: 0;
 }
 
+.centre-align {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
 /* ////  */
 
 .blog-post {
