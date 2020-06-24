@@ -303,7 +303,7 @@ a:visited {
     .blog-post > h1,
     .blog-post > h5,
     .blog-post-content > *:not(.full-width):not(img):not(figure){
-        margin: auto 5vw;
+        margin: 20px 5vw;
         width: 90vw;
     }
 
