@@ -2,6 +2,7 @@
 path: "/starry-night"
 date: "2019-12-06T17:12:33.962Z"
 title: "Starry, Starry Night"
+featuredImage: "/blog/starynight.png"
 ---
 
 <img src="/blog/starynight.png" alt="van gogh's stary night painting" style="margin: 0px 0 40px; display: block; max-width: 100%;" />
